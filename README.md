@@ -1,6 +1,19 @@
 - 👋 Hi, I’m @davidevigolo
 - 👀 I’m interested in .NET Developing, Java developing, WCF Framework and XAML Apps.
-- 🌱 I’m currently learning Java and C at ITI Severi (Padua), but also self-taught C# 
+- 🌱 My skills:
+- C# with Windows Forms, REST API, Async Programming (TAP), Multithreading, OOP, Website scraping (also with NodeJS)
+- Java, all related to OOP, Java Swing, XML with SAX, JSON.
+- NodeJS for website scraping and Protobuf/GRPC communications.
+- C++ small experience for game hacking.
+- 
+- Databases: 
+- 
+- MySQL knowledge, Queries, E-R Diagrams, Relational Algebra, Normalization
+- MongoDB for single applications (not distrubuted environments)
+- 
+- Web:
+- HTML5,CSS3,JavaScript.
+- 
 - 📫 How to reach me: use my email --> davide.vigolo.04@gmail.com
 
 <!---
