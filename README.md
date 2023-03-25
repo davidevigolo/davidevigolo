@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davidevigolo
-- 👀 I’m interested in .NET Developing, Java developing, WCF Framework and XAML Apps.
+- 👀 I’m interested in .NET Developing, Web Services, AI, Web security
 - 🌱 My skills:
 - C# with Windows Forms, REST API, Async Programming (TAP), Multithreading, OOP, Website scraping (also with NodeJS)
 - Java, all related to OOP, Java Swing, XML with SAX, JSON.
